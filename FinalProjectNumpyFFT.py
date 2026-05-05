@@ -1,3 +1,4 @@
+# This version was put through ChatGPT to convert all FFT_CooleyTukey calls to NumPy FFT
 import numpy as np
 import matplotlib.pyplot as plt
 
